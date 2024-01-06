@@ -2,12 +2,6 @@
 
 ##### 💻 | Desenvolvedor Back-end JR <br>🥽 | Estudando aplicação do MySQL em LUA <br>👑 | Owner & Founder: <a href="https://discord.gg/3uJ4tD9hs7">Next Development</a> (FiveM Development Server)
 
-<div align="center">
-  <a href="https://github.com/caiozinn1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiozinn1&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 ## 🔧 Tecnologias
 
 #### 🧬 | Learned
